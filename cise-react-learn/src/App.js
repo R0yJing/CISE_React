@@ -12,7 +12,7 @@ function App() {
         <a
           className="App-links"
 
-          href="https://reactjs.org"
+          href="https://www.aut.ac.nz"
           target="_blank"
           rel="noopener noreferrer"
         >
